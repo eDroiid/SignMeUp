@@ -1,0 +1,7 @@
+name: SignMeUp
+main: eDroid\SignMeUp\main
+version: 1.0.0
+api: [3.0.0, 3.0.0-ALPHA6, 3.0.0-ALPHA7]
+load: STARTUP
+author: eDroid
+description: edit signs in your server's level's with ease.
